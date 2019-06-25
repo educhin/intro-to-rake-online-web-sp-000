@@ -2,3 +2,7 @@
 task :hello do
   puts "hello from Rake!"
 end
+
+task :slang do
+  puts "what it do blood?"
+end
