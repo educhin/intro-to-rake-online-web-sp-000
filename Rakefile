@@ -10,6 +10,6 @@ namespace :greeting do
   end
   desc 'outputs hello in spanish'
   task :hola do
-    puts: "Hola, como estas?"
+    puts "Hola, como estas?"
   end
 end
